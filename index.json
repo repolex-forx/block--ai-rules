@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "ai-rules",
+  "versions": [
+    {
+      "commit": "b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f",
+      "tag": "main",
+      "parsed_at": "2026-10-01T06:42:12.881176+00:00"
+    }
+  ]
+}
