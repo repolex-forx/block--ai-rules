@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/ai-rules/commit/b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f",
       "git:hexsha": "b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "v1.7.0"
     },
     {

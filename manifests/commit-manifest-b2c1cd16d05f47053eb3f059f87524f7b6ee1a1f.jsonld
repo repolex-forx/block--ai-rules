@@ -48,10 +48,64 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f/chunk-001.nq.gz",
       "repolex:graphFileSize": 6669672
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f.nq.gz",
+      "repolex:graphFileSize": 923599
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-01T06:18:54.257278+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/dtolnay/anyhow",
+      "repolex:packageName": "anyhow"
+    },
+    {
+      "@id": "https://repolex.ai/r/clap-rs/clap",
+      "repolex:packageName": "clap"
+    },
+    {
+      "@id": "https://repolex.ai/r/serde-rs/serde",
+      "repolex:packageName": "serde"
+    },
+    {
+      "@id": "https://repolex.ai/r/serde-rs/json",
+      "repolex:packageName": "serde_json"
+    },
+    {
+      "@id": "https://repolex.ai/r/dtolnay/serde-yaml",
+      "repolex:packageName": "serde_yaml"
+    },
+    {
+      "@id": "https://repolex.ai/r/toml-rs/toml",
+      "repolex:packageName": "toml"
+    },
+    {
+      "@id": "https://repolex.ai/r/fadeevab/cliclack",
+      "repolex:packageName": "cliclack"
+    },
+    {
+      "@id": "https://repolex.ai/r/rust-lang/regex",
+      "repolex:packageName": "regex"
+    },
+    {
+      "@id": "https://repolex.ai/r/harryfei/which-rs",
+      "repolex:packageName": "which",
+      "git:hexsha": "adac2cdae7eaef4d5ce4cb2984ba43a0559adf06",
+      "git:tagName": "8.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/BurntSushi/ripgrep",
+      "repolex:packageName": "ignore"
+    },
+    {
+      "@id": "https://repolex.ai/r/Stebalien/tempfile",
+      "repolex:packageName": "tempfile"
+    }
+  ]
 }
