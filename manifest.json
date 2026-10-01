@@ -220,7 +220,9 @@
           "githubUrl": "https://github.com/Stebalien/tempfile",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f/chunk-001.nq.gz",
+      "dep": "dep/b2c1cd16d05f47053eb3f059f87524f7b6ee1a1f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
