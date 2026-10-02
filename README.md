@@ -184,4 +184,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [block/ai-rules](https://github.com/block/ai-rules)
 
 ---
-*Parsed on 2026-10-01 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-02 by [repolex](https://repolex.ai)*
